@@ -24,7 +24,7 @@ Curently, this package includes a function design.dma. To use this function, you
 \author{
 %Who wrote it#
 Tyler Tiede in University of Minnesota wrote design.dma fucntion \cr
-Aimin Yan in Cornell University reframed Tyler's reframed code to make it into a R package \cr
+Aimin Yan in Cornell University reframed Tyler's code to make it into a R package \cr
 Maintainer: Aimin Yan <ay247@cornell.edu>
 %~~ The author and/or maintainer of the package ~~
 }
