@@ -44,6 +44,7 @@ Moving Average Design
 }
 \examples{
 %~~ simple examples of the most important functions ~~
+#test file
 #simple example to use design.dma
 acc=c(paste("Acc",seq(1,330,1),sep="_")) 
 chk=c(paste("chk",seq(1,4,1),sep="_"))
