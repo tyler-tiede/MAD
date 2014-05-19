@@ -1,0 +1,9 @@
+Package: MAD
+Type: Package
+Title: Moving average experiment
+Version: 1.0
+Date: 2014-05-17
+Author: Tyler Tiede and Aimin Yan
+Maintainer: Aimin Yan <ay247@cornell.edu>
+Description: This package is to generate a moving average experiemnt design
+License:GPL
